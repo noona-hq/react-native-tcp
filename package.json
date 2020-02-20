@@ -1,6 +1,6 @@
 {
-  "name": "@noonahq/react-native-tcp",
-  "version": "3.3.3",
+  "name": "noonahq-react-native-tcp",
+  "version": "3.3.4",
   "description": "node's net API for react-native",
   "main": "TcpSockets.js",
   "scripts": {
@@ -29,9 +29,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PeelTechnologies/react-native-tcp/issues"
+    "url": "https://github.com/noona-hq/react-native-tcp/issues"
   },
-  "homepage": "https://github.com/PeelTechnologies/react-native-tcp",
+  "homepage": "https://github.com/noona-hq/react-native-tcp",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   },
