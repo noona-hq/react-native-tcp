@@ -1,4 +1,3 @@
-```markdown
 # noona-hq/react-native-tcp
 
 A React Native implementation of Node.js's net API for TCP communication.
@@ -33,4 +32,3 @@ A React Native implementation of Node.js's net API for TCP communication.
 
 ## **Dependencies**
 - No direct dependencies on other Noona services. Relies on native modules for Android and iOS.
-```
